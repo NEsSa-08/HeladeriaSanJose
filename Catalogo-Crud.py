@@ -171,3 +171,4 @@ listbox.bind("<<ListboxSelect>>", seleccionar)
 cambiar_tabla()
 
 root.mainloop()
+
